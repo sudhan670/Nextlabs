@@ -1,6 +1,4 @@
 # Nextlabs
-# My Web App
-
 ## Overview
 This is a web application built with Django and React. The app has an admin interface to manage apps and points, and a user interface to view tasks and upload screenshots.
 
